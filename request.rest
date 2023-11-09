@@ -1,0 +1,3 @@
+GET http://localhost:8000/api/admin/users
+
+Authorization: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InNhbkBnbWFpbC5jb20iLCJpYXQiOjE2OTg4NTA5MzJ9.2FdvsdVlJm_CGJlbmOW4s3NDj5zbExBdDmpmzm9Xl-c"
